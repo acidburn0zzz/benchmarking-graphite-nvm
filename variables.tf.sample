@@ -1,0 +1,3 @@
+variable "auth_token"  { default = "xxxxxx" }
+variable "project_id"  { default = "xxxxxx" }
+variable "project_name"  { default = "xxxxxx" }
